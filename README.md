@@ -1,10 +1,29 @@
-<h3 align="center"> Hi  👋(⌐■_■) </h3>
+<svg fill="none" viewBox="0 0 320 240" width="320" height="240" xmlns="http://www.w3.org/2000/svg">
+   <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  			.cycle {
+				animation: __fadein 2s ease-in;
+			}
+      
+			@keyframes __fadein {
+				from { opacity: 0; }
+			    to   { opacity: 1; }
+			}
 
-<p align="center">
-  <a href="https://pce.github.io"><img width="250" src="https://raw.githubusercontent.com/pce/graffitude/master/results/squaryPythogarsTree.png"></a>
-</p>
-<p align="center">
-  https://pce.github.io/
-</p>
+			@-webkit-keyframes __fadein {
+				from { opacity: 0; }
+			    to   { opacity: 1; }
+			}
+</style>
+        <div class="cycle">
+        <h3 align="center"> Hi  👋(⌐■_■) </h3>
+         <p align="center">
+            https://pce.github.io/
+          </p>
+  			</section>
+        </div>
+      </foreignObject>
+</svg>
 
 
